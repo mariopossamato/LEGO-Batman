@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LEGO Batman
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mario
+    family-names: Possamato
+    email: mariopossamato@gmail.com
+repository-code: 'https://github.com/mariopossamato/LEGO-Batman'
+abstract: >-
+  A work-in-progress decompilation of LEGO Batman (LEGO®
+  Batman™: The Videogame) version 1.0.1 for Mac OS X.
+  Decompiled with IDA Professional 9.0.
+keywords:
+  - cpp
+  - gcc
+  - decompilation
+  - tt-games
+  - lego-batman-the-videogame
+license: GPL-3.0
